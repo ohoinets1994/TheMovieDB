@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheMoviewDB</string>
+    <string name="error_no_internet_connection">No Internet Connection!!!</string>
+    <string name="error_something_went_wrong">Something went wrong…</string>
+    <string name="error_status_code_500">Please try again later…</string>
+    <string name="error_status_code_400">@string/error_something_went_wrong</string>
+    <string name="retry">RETRY</string>
+</resources>
